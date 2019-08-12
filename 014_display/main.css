@@ -1,0 +1,27 @@
+div {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+border-radius: 10px;
+display: inline-block;
+
+}
+
+/* element selector */
+img {
+border: 10px groove orangered;
+border-radius: 100%;
+}
+
+/* class selector */
+.dogone {
+border: 10px dashed orangered;
+}
+
+.dogtwo {
+border: 10px dotted orangered;
+}
+
+.dogthree {
+border: 10px double orangered;
+}
